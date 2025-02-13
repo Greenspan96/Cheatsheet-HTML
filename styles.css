@@ -1,0 +1,50 @@
+body {
+  background-color: AliceBlue;
+  font-family: oswald;
+  padding: 20px;
+  margin: 20px auto;
+}
+h1 {
+  color: SlateGray;
+  font-family: ExtraLight 200roboto;
+ text-align: center;
+
+
+}
+p {
+  color: black;
+  font-family: roboto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+th{
+  border: 2px solid black;
+  padding: 10px;
+  margin: 20px auto;
+  font-family: oswald;
+  font-weight: 700;
+  font-style: normal;
+  
+  }
+  
+  td {
+  border: 1px solid grey;
+  padding: 10px;
+  margin: 20px auto;
+  background-color: GhostWhite;
+  font-family: roboto;
+  font-weight: 300;
+  font-style: normal;
+  }
+table{
+  background-color: white;
+}
+caption{
+    border: 1px solid grey;
+    font-size: 20px;
+    text-align: left;
+    padding: 8px 10px;
+    color: SlateGray;
+    font-weight: 700;
+    }
